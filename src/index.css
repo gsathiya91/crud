@@ -1,0 +1,19 @@
+/* .dashboard{
+  background-color: rgb(212, 78, 78);
+  height:660px;
+  width:auto;
+} */
+
+/* .table{
+  /* display: flex;
+  justify-content:center; */
+/* } */ */
+.admin{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ padding:100px;
+ color: white;
+
+}
